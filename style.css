@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(231, 228, 228);
+    margin: 0;
+
+ }
+
+h1{
+    font-family: cursive;
+    margin-left: 70px;
+    color:rgb(36, 158, 158);
+    font-size: 35px;
+}
+
+h3{
+    margin-left: 50px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+div{
+    display: inline-block;
+    margin-right: 70px;
+    width: 400px;
+}
